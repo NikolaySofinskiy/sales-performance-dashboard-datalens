@@ -1,11 +1,7 @@
 # Создание интерактивного дашборда в Yandex DataLens для анализа эффективности продаж косметических брендов.
 
-👉 **[ОТКРЫТЬ ИНТЕРАКТИВНЫЙ ДАШБОРД В DATALENS](https://datalens.yandex/0jexmaa3zg10k)**
-
-# Анализ эффективности продаж косметических брендов
-
 [![DataLens](https://img.shields.io/badge/DataLens-View_Dashboard-blue?style=for-the-badge&logo=yandex&logoColor=white)](https://datalens.yandex/0jexmaa3zg10k)
-
+https://datalens.yandex/0jexmaa3zg10k
 Интерактивный BI-дашборд, разработанный для анализа продаж, выручки и ключевых продуктовых метрик косметических брендов. Проект выполнен по методологии сквозного проектирования: от сбора бизнес-требований на основе интервью до создания интерактивного прототипа.
 
 ---
